@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "rAv33Qb+WJE6RirhgObHfhOzYm4LRsvVJGaAya0UFGvXnOgDLll3mwgdHyVZoiKUkBSP5362iuH8pl6KoyzlDg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tafadnav\\Desktop\\Codes\\AuthApi\\SecureClient\\SecureClient\\SecureClient\\SecureClient.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tafadnav\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.9\\microsoft.extensions.configuration.3.1.9.nupkg.sha512",
+    "C:\\Users\\tafadnav\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.9\\microsoft.extensions.configuration.abstractions.3.1.9.nupkg.sha512",
+    "C:\\Users\\tafadnav\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.9\\microsoft.extensions.configuration.binder.3.1.9.nupkg.sha512",
+    "C:\\Users\\tafadnav\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\3.1.9\\microsoft.extensions.configuration.fileextensions.3.1.9.nupkg.sha512",
+    "C:\\Users\\tafadnav\\.nuget\\packages\\microsoft.extensions.configuration.json\\3.1.9\\microsoft.extensions.configuration.json.3.1.9.nupkg.sha512",
+    "C:\\Users\\tafadnav\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.9\\microsoft.extensions.fileproviders.abstractions.3.1.9.nupkg.sha512",
+    "C:\\Users\\tafadnav\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\3.1.9\\microsoft.extensions.fileproviders.physical.3.1.9.nupkg.sha512",
+    "C:\\Users\\tafadnav\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\3.1.9\\microsoft.extensions.filesystemglobbing.3.1.9.nupkg.sha512",
+    "C:\\Users\\tafadnav\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.9\\microsoft.extensions.primitives.3.1.9.nupkg.sha512",
+    "C:\\Users\\tafadnav\\.nuget\\packages\\microsoft.identity.client\\4.21.0\\microsoft.identity.client.4.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}
